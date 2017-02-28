@@ -2,11 +2,18 @@
 
 ## About Hotel Beds
 
+Hotelbeds SDK for PHP is a set of utilities whose main goal is to help in the development of PHP applications that use APItude, the Hotelbeds API. This is a composer library available on packagist.org repository.
+
+## About this integration project
+
 Description Here
 
 ## Installing Hotel Beds SDK
 
-Installing via composer
+Install from console with Composer utility: https://getcomposer.org/download/
+
+<code>composer require "hotelbeds/hotel-api-sdk-php:dev-master@dev"</code>
+
 
 ## License
 
