@@ -12,3 +12,4 @@
 */
 
 Route::get('/', 'HotelbedsController@index');
+Route::get('/search', 'HotelbedsController@search');
