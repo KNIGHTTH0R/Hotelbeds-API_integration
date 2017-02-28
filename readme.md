@@ -5,7 +5,7 @@ Hotelbeds is a global travel distributor of accommodation and ancillary products
 
 ## About this integration project
 
-That project is focused in provide integration between Hotel Beds SDK and any travel company website. Last update <b>28 FEB 2017</b>, project unfinished yet. Contact: lepereiraxyz@gmail.com
+That project is focused in provide integration between Hotel Beds SDK and any travel company website. <br> Last update <b>28 FEB 2017</b>, project unfinished yet. Contact: lepereiraxyz@gmail.com
 
 ## Installing Hotel Beds SDK
 Hotelbeds SDK for PHP is a set of utilities whose main goal is to help in the development of PHP applications that use APItude, the Hotelbeds API. This is a composer library available on packagist.org repository.
